@@ -1,0 +1,5 @@
+# Pages handles /index.html and .html canonicalization.
+# Trailing slashes follow the generated directory routes.
+https://www.shahirsalehi.com/* https://shahirsalehi.com/:splat 301
+/services/website-design/ /services/web-design/ 301
+/services/digital-marketing/ /services/ 301

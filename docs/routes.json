@@ -1,0 +1,706 @@
+[
+  {
+    "path": "/",
+    "name": "Home",
+    "title": "Digital Marketing, SEO & Technology Strategy",
+    "description": "Independent digital marketing and technology consulting by Shahir Salehi. 10+ years of experience and 200+ websites and e-commerce brands built.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/about/",
+    "name": "About",
+    "title": "About Shahir Salehi — Independent Marketing Consultant",
+    "description": "Meet Shahir Salehi: an independent digital marketing and technology consultant with 10+ years of professional work and 200+ websites and e-commerce builds.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/contact/",
+    "name": "Contact",
+    "title": "Discuss Your Website or Marketing Project",
+    "description": "Share your business goals, website project, or marketing challenge with Shahir Salehi. Learn what to prepare and how inquiries will be handled.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/services/",
+    "name": "Services",
+    "title": "Digital Marketing, Website & Technology Services",
+    "description": "Explore SEO, Google Ads, Meta advertising, content, AI, branding, websites, e-commerce, analytics, conversion optimization, and defensive security services.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/work/",
+    "name": "Work & background",
+    "title": "Website & E-commerce Project Background",
+    "description": "Explore the professional background behind 200+ website and e-commerce builds, with an honest explanation of available project examples.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/process/",
+    "name": "How I work",
+    "title": "How I Work — From Review to Implementation",
+    "description": "Understand how goals, reviews, priorities, implementation, and measurement shape a scoped engagement with Shahir Salehi.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/faq/",
+    "name": "Frequently asked questions",
+    "title": "Frequently Asked Questions About Working Together",
+    "description": "Answers about consulting scope, project preparation, existing websites, measurement, costs, and realistic expectations for digital marketing work.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/insights/",
+    "name": "Insights",
+    "title": "Practical Marketing, Website & Technology Guides",
+    "description": "Read original guides to technical SEO, advertising, GA4, content planning, e-commerce, lead measurement, AI, and website security by Shahir Salehi.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/resources/",
+    "name": "Resources",
+    "title": "Marketing & Website Project Resources",
+    "description": "Prepare a project brief, review your measurement definitions, and explore practical marketing and technology guides for business owners.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/industries/",
+    "name": "Industries",
+    "title": "Marketing & Website Priorities by Business Type",
+    "description": "Explore distinct digital priorities for e-commerce, local, professional service, retail, B2B, and home service businesses without assumed client histories.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/services/seo/",
+    "name": "Search engine optimization",
+    "title": "Search engine optimization & Consulting",
+    "description": "Technical SEO, useful content, and clear site architecture that help the right people discover your business through search.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/google-ads/",
+    "name": "Google Ads strategy & management",
+    "title": "Google Ads strategy & management & Consulting",
+    "description": "Search, Shopping, and campaign strategy built around relevant demand, useful landing pages, and meaningful conversion measurement.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/meta-ads/",
+    "name": "Meta advertising strategy",
+    "title": "Meta advertising strategy & Consulting",
+    "description": "Facebook and Instagram campaign planning, creative testing, and lead generation with clear objectives and realistic attribution.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/content-strategy/",
+    "name": "Content strategy & website copy",
+    "title": "Content strategy & website copy & Consulting",
+    "description": "Audience research, editorial planning, content audits, and website copy that connect customer questions with your business offering.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ai-strategy/",
+    "name": "Practical AI strategy",
+    "title": "Practical AI strategy & Consulting",
+    "description": "AI readiness reviews, marketing workflows, and responsible adoption focused on practical use cases, human review, privacy, and cost.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/branding/",
+    "name": "Brand strategy & positioning",
+    "title": "Brand strategy & positioning & Consulting",
+    "description": "Brand positioning, messaging, and practical communication guidance that make your offering easier to understand and recognize.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/web-design/",
+    "name": "Website design & development",
+    "title": "Website design & development & Consulting",
+    "description": "Fast, accessible websites with thoughtful structure, clear content, and reliable technical foundations for your business.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ecommerce/",
+    "name": "E-commerce strategy & development",
+    "title": "E-commerce strategy & development & Consulting",
+    "description": "Online store design, catalogue structure, product journeys, and measurement that support a more useful shopping experience.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/analytics-measurement/",
+    "name": "Analytics & conversion measurement",
+    "title": "Analytics & conversion measurement & Consulting",
+    "description": "GA4, Google Tag Manager, conversion tracking, and reporting designed around meaningful business actions and privacy-aware data collection.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/conversion-optimization/",
+    "name": "Conversion rate optimization",
+    "title": "Conversion rate optimization & Consulting",
+    "description": "Conversion audits, landing-page improvements, and disciplined testing focused on clearer journeys and genuine business outcomes.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/cybersecurity/",
+    "name": "Website & small-business security",
+    "title": "Website & small-business security & Consulting",
+    "description": "Defensive website security, access reviews, updates, backups, and practical security guidance for small and medium-sized businesses.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/google-ads/search-ads/",
+    "name": "Google Search advertising",
+    "title": "Google Search advertising Services",
+    "description": "Reach people actively looking for a product, service, or answer with ads that match the intent behind the query.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/google-ads/display-advertising/",
+    "name": "Google Display advertising",
+    "title": "Google Display advertising Services",
+    "description": "Plan visual campaigns with a clear audience purpose, appropriate creative, and placement controls.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/google-ads/google-shopping/",
+    "name": "Google Shopping campaigns",
+    "title": "Google Shopping campaigns Services",
+    "description": "Connect accurate product information with shoppers comparing products through Google.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/google-ads/performance-max/",
+    "name": "Performance Max strategy",
+    "title": "Performance Max strategy Services",
+    "description": "Assess whether an automated cross-channel campaign has the inputs and measurement it needs.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/google-ads/remarketing/",
+    "name": "Google Ads remarketing",
+    "title": "Google Ads remarketing Services",
+    "description": "Plan appropriate follow-up advertising for people who have already interacted with your business.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/google-ads/account-audit/",
+    "name": "Google Ads account audit",
+    "title": "Google Ads account audit Services",
+    "description": "Understand what an existing account is doing before deciding what to change.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/meta-ads/facebook-ads/",
+    "name": "Facebook advertising",
+    "title": "Facebook advertising Services",
+    "description": "Build Facebook campaigns around a clear customer need, an appropriate objective, and creative that explains the offer.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/meta-ads/instagram-ads/",
+    "name": "Instagram advertising",
+    "title": "Instagram advertising Services",
+    "description": "Adapt your offer to visual placements without losing the clarity customers need to act.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/meta-ads/lead-generation/",
+    "name": "Meta lead generation",
+    "title": "Meta lead generation Services",
+    "description": "Design a lead journey that balances ease of response with the information needed for useful follow-up.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/meta-ads/retargeting/",
+    "name": "Meta retargeting",
+    "title": "Meta retargeting Services",
+    "description": "Use permitted audience signals to support a relevant next step for people already familiar with your business.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/meta-ads/account-audit/",
+    "name": "Meta Ads account audit",
+    "title": "Meta Ads account audit Services",
+    "description": "Review campaign objectives, creative, measurement, and lead quality in an existing Meta account.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/seo/technical-seo/",
+    "name": "Technical SEO",
+    "title": "Technical SEO Services",
+    "description": "Remove technical barriers that prevent useful pages from being discovered, indexed, and understood.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/seo/on-page-seo/",
+    "name": "On-page SEO",
+    "title": "On-page SEO Services",
+    "description": "Make individual pages clearer to readers and more explicit about the subject they serve.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/seo/local-seo/",
+    "name": "Local search visibility",
+    "title": "Local search visibility Services",
+    "description": "Help an eligible business present accurate information to customers looking for nearby services.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/seo/ecommerce-seo/",
+    "name": "E-commerce SEO",
+    "title": "E-commerce SEO Services",
+    "description": "Organize category and product discovery while controlling duplicate and low-value store URLs.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/seo/seo-audit/",
+    "name": "SEO audit",
+    "title": "SEO audit Services",
+    "description": "Get an evidence-based view of search issues and a practical order for addressing them.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/seo/keyword-research/",
+    "name": "Keyword and search-intent research",
+    "title": "Keyword and search-intent research Services",
+    "description": "Understand the language customers use and map distinct needs to useful pages.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/seo/website-migration-seo/",
+    "name": "Website migration SEO",
+    "title": "Website migration SEO Services",
+    "description": "Protect useful URLs and discovery paths when a site changes platform, structure, or domain.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/content-strategy/seo-content/",
+    "name": "SEO content planning",
+    "title": "SEO content planning Services",
+    "description": "Create useful pages around real questions without publishing thin keyword variations.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/content-strategy/editorial-planning/",
+    "name": "Editorial planning",
+    "title": "Editorial planning Services",
+    "description": "Turn content ideas into a manageable schedule with owners, evidence, and review steps.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/content-strategy/content-audit/",
+    "name": "Content audit",
+    "title": "Content audit Services",
+    "description": "Find what to keep, improve, combine, or retire in your existing website content.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/content-strategy/website-copywriting/",
+    "name": "Website copywriting",
+    "title": "Website copywriting Services",
+    "description": "Explain your business in clear, useful language across the pages customers rely on.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/content-strategy/landing-page-copywriting/",
+    "name": "Landing-page copywriting",
+    "title": "Landing-page copywriting Services",
+    "description": "Continue the promise of an advertisement with a focused, credible destination.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ai-strategy/ai-readiness/",
+    "name": "AI readiness assessment",
+    "title": "AI readiness assessment Services",
+    "description": "Assess the tasks, data, people, and safeguards needed before adopting AI tools.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ai-strategy/marketing-automation/",
+    "name": "AI-assisted marketing automation",
+    "title": "AI-assisted marketing automation Services",
+    "description": "Reduce repetitive marketing work with reviewable workflows and clear failure handling.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ai-strategy/business-workflows/",
+    "name": "AI for business workflows",
+    "title": "AI for business workflows Services",
+    "description": "Find where assisted drafting, summarization, or classification can support everyday operations.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ai-strategy/ai-search-readiness/",
+    "name": "AI search readiness",
+    "title": "AI search readiness Services",
+    "description": "Make your public business information clear, accessible, and accurately supported.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ai-strategy/responsible-ai-use/",
+    "name": "Responsible AI use",
+    "title": "Responsible AI use Services",
+    "description": "Establish practical rules for data handling, human review, and accountability when using AI.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/branding/brand-strategy/",
+    "name": "Brand strategy",
+    "title": "Brand strategy Services",
+    "description": "Connect your business goals, audience choices, and communication into a practical direction.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/branding/brand-positioning/",
+    "name": "Brand positioning",
+    "title": "Brand positioning Services",
+    "description": "Explain where your offering fits and why the right customer might choose it.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/branding/brand-messaging/",
+    "name": "Brand messaging",
+    "title": "Brand messaging Services",
+    "description": "Create consistent words for your offer across the website, campaigns, and customer conversations.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/web-design/website-design/",
+    "name": "Responsive website design",
+    "title": "Responsive website design Services",
+    "description": "Plan clear page layouts and navigation around the information your customers need.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/web-design/website-development/",
+    "name": "Website development",
+    "title": "Website development Services",
+    "description": "Build maintainable websites with readable content, reliable routes, and practical deployment.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/web-design/website-performance/",
+    "name": "Website performance optimization",
+    "title": "Website performance optimization Services",
+    "description": "Identify loading and interaction bottlenecks in the pages people actually use.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/web-design/website-maintenance/",
+    "name": "Website maintenance",
+    "title": "Website maintenance Services",
+    "description": "Keep the site, connected services, and ownership information useful after launch.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ecommerce/ecommerce-website-design/",
+    "name": "E-commerce website design",
+    "title": "E-commerce website design Services",
+    "description": "Design catalogue and product journeys that help shoppers make informed choices.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ecommerce/ecommerce-development/",
+    "name": "E-commerce development",
+    "title": "E-commerce development Services",
+    "description": "Implement a reliable store around your catalogue, operations, and chosen platform.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ecommerce/ecommerce-marketing/",
+    "name": "E-commerce marketing",
+    "title": "E-commerce marketing Services",
+    "description": "Coordinate product discovery, advertising, content, and measurement around the store economics.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/ecommerce/ecommerce-optimization/",
+    "name": "E-commerce optimization",
+    "title": "E-commerce optimization Services",
+    "description": "Find friction in product discovery, decision-making, and checkout.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/analytics-measurement/google-analytics-4/",
+    "name": "Google Analytics 4 setup & review",
+    "title": "Google Analytics 4 setup & review Services",
+    "description": "Configure GA4 around meaningful events and understandable reporting questions.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/analytics-measurement/google-tag-manager/",
+    "name": "Google Tag Manager implementation",
+    "title": "Google Tag Manager implementation Services",
+    "description": "Organize website tags with clear triggers, consent requirements, and publishing controls.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/analytics-measurement/conversion-tracking/",
+    "name": "Conversion tracking",
+    "title": "Conversion tracking Services",
+    "description": "Distinguish interest signals from completed actions and verified business outcomes.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/analytics-measurement/marketing-reporting/",
+    "name": "Marketing reporting",
+    "title": "Marketing reporting Services",
+    "description": "Build reports that answer business questions and make the next decision easier.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/conversion-optimization/landing-pages/",
+    "name": "Landing-page optimization",
+    "title": "Landing-page optimization Services",
+    "description": "Make a campaign destination clear, relevant, and easy to act on.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/conversion-optimization/conversion-audit/",
+    "name": "Conversion audit",
+    "title": "Conversion audit Services",
+    "description": "Identify where the website journey makes a useful action unnecessarily difficult.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/conversion-optimization/ab-testing/",
+    "name": "A/B testing strategy",
+    "title": "A/B testing strategy Services",
+    "description": "Use controlled experiments when the traffic and decision justify them.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/cybersecurity/website-security/",
+    "name": "Defensive website security",
+    "title": "Defensive website security Services",
+    "description": "Review the technical and operational controls supporting your public website.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/cybersecurity/website-security-assessment/",
+    "name": "Website security assessment",
+    "title": "Website security assessment Services",
+    "description": "Get a scoped, point-in-time review of your website security posture.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/services/cybersecurity/small-business-security/",
+    "name": "Small-business security guidance",
+    "title": "Small-business security guidance Services",
+    "description": "Build manageable habits around access, backups, updates, and account ownership.",
+    "schema": "Service",
+    "noindex": false
+  },
+  {
+    "path": "/insights/technical-seo-checklist/",
+    "name": "A practical technical SEO checklist for small business websites",
+    "title": "A practical technical SEO checklist for small business websites",
+    "description": "Check indexability, response codes, canonicals, internal links, mobile rendering, and performance before commissioning more website content.",
+    "schema": "Article",
+    "noindex": false
+  },
+  {
+    "path": "/insights/google-ads-vs-meta-ads/",
+    "name": "Google Ads vs. Meta Ads: choosing a useful starting point",
+    "title": "Google Ads vs. Meta Ads: choosing a useful starting point",
+    "description": "Compare search intent, creative needs, landing pages, budget decisions, and attribution before choosing Google Ads or Meta advertising.",
+    "schema": "Article",
+    "noindex": false
+  },
+  {
+    "path": "/insights/small-business-ga4/",
+    "name": "What a small business should understand about GA4",
+    "title": "What a small business should understand about GA4",
+    "description": "Understand GA4 events, key events, GTM, consent, reporting gaps, and the checks needed to avoid misleading conversion data.",
+    "schema": "Article",
+    "noindex": false
+  },
+  {
+    "path": "/insights/plan-a-content-strategy/",
+    "name": "How to plan content for a business website",
+    "title": "How to plan content for a business website",
+    "description": "Build a practical content plan from customer questions, page purpose, factual evidence, internal links, and an achievable editorial workflow.",
+    "schema": "Article",
+    "noindex": false
+  },
+  {
+    "path": "/insights/ecommerce-seo-mistakes/",
+    "name": "Common e-commerce SEO mistakes and how to assess them",
+    "title": "Common e-commerce SEO mistakes and how to assess them",
+    "description": "Review filter URLs, category structure, product variants, discontinued items, structured data, and the business impact of store SEO changes.",
+    "schema": "Article",
+    "noindex": false
+  },
+  {
+    "path": "/insights/measure-lead-generation/",
+    "name": "How to measure a lead generation campaign",
+    "title": "How to measure a lead generation campaign",
+    "description": "Separate clicks, delivered inquiries, qualified leads, and sales, then test tracking and reporting across the full lead generation journey.",
+    "schema": "Article",
+    "noindex": false
+  },
+  {
+    "path": "/insights/practical-ai-for-small-business/",
+    "name": "Practical AI applications for a small business",
+    "title": "Practical AI applications for a small business",
+    "description": "Choose a contained AI pilot, protect sensitive data, define human review, and measure total effort before expanding business automation.",
+    "schema": "Article",
+    "noindex": false
+  },
+  {
+    "path": "/insights/website-security-basics/",
+    "name": "Website security basics for business owners",
+    "title": "Website security basics for business owners",
+    "description": "Review domain ownership, authentication, updates, backups, forms, and incident responsibilities without assuming that HTTPS guarantees security.",
+    "schema": "Article",
+    "noindex": false
+  },
+  {
+    "path": "/industries/ecommerce/",
+    "name": "E-commerce businesses",
+    "title": "Marketing & Websites for E-commerce businesses",
+    "description": "Connect product discovery with a useful buying experience.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/industries/local-businesses/",
+    "name": "Local businesses",
+    "title": "Marketing & Websites for Local businesses",
+    "description": "Make the real offering and service area easy to understand.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/industries/professional-services/",
+    "name": "Professional services",
+    "title": "Marketing & Websites for Professional services",
+    "description": "Explain expertise without relying on unsupported claims.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/industries/retail/",
+    "name": "Retail businesses",
+    "title": "Marketing & Websites for Retail businesses",
+    "description": "Coordinate the store experience and the digital offer.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/industries/b2b/",
+    "name": "B2B businesses",
+    "title": "Marketing & Websites for B2B businesses",
+    "description": "Support a considered buying decision across a longer journey.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/industries/home-services/",
+    "name": "Home service businesses",
+    "title": "Marketing & Websites for Home service businesses",
+    "description": "Make suitability and the next step clear before an inquiry.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/privacy-policy/",
+    "name": "Privacy policy",
+    "title": "Privacy policy",
+    "description": "How this website is configured to handle inquiries, optional measurement, browser preferences, and third-party services.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/terms-and-conditions/",
+    "name": "Terms and conditions",
+    "title": "Terms and conditions",
+    "description": "Information about using this website, consulting scope, content limitations, and third-party services.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/cookie-policy/",
+    "name": "Cookie & browser storage policy",
+    "title": "Cookie & browser storage policy",
+    "description": "Understand essential behavior, optional tracking categories, and the browser storage used to remember privacy preferences.",
+    "schema": "WebPage",
+    "noindex": false
+  },
+  {
+    "path": "/404.html",
+    "name": "Page not found",
+    "title": "Page Not Found",
+    "description": "The requested page could not be found. Return to Shahir Salehi’s services or homepage.",
+    "schema": "WebPage",
+    "noindex": true
+  }
+]

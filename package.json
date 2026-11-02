@@ -1,0 +1,22 @@
+{
+  "name": "shahir-salehi-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs",
+    "test": "node scripts/build.mjs && python3 tests/site.py",
+    "test:browser": "node tests/browser.mjs",
+    "package": "python3 scripts/package.py"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.11.0",
+    "@playwright/test": "1.56.1",
+    "esbuild": "0.25.12"
+  }
+}

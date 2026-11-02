@@ -1,0 +1,34 @@
+# Shahir Salehi
+
+> Independent digital marketing, website development, and technology consulting.
+
+10+ years of professional work. 200+ websites and e-commerce brands built.
+
+## About and contact
+- [About](https://shahirsalehi.com/about/): Professional background and approach.
+- [Contact](https://shahirsalehi.com/contact/): Project inquiries and current contact availability.
+
+## Services
+- [Search engine optimization](https://shahirsalehi.com/services/seo/): Technical SEO, useful content, and clear site architecture that help the right people discover your business through search.
+- [Google Ads strategy & management](https://shahirsalehi.com/services/google-ads/): Search, Shopping, and campaign strategy built around relevant demand, useful landing pages, and meaningful conversion measurement.
+- [Meta advertising strategy](https://shahirsalehi.com/services/meta-ads/): Facebook and Instagram campaign planning, creative testing, and lead generation with clear objectives and realistic attribution.
+- [Content strategy & website copy](https://shahirsalehi.com/services/content-strategy/): Audience research, editorial planning, content audits, and website copy that connect customer questions with your business offering.
+- [Practical AI strategy](https://shahirsalehi.com/services/ai-strategy/): AI readiness reviews, marketing workflows, and responsible adoption focused on practical use cases, human review, privacy, and cost.
+- [Brand strategy & positioning](https://shahirsalehi.com/services/branding/): Brand positioning, messaging, and practical communication guidance that make your offering easier to understand and recognize.
+- [Website design & development](https://shahirsalehi.com/services/web-design/): Fast, accessible websites with thoughtful structure, clear content, and reliable technical foundations for your business.
+- [E-commerce strategy & development](https://shahirsalehi.com/services/ecommerce/): Online store design, catalogue structure, product journeys, and measurement that support a more useful shopping experience.
+- [Analytics & conversion measurement](https://shahirsalehi.com/services/analytics-measurement/): GA4, Google Tag Manager, conversion tracking, and reporting designed around meaningful business actions and privacy-aware data collection.
+- [Conversion rate optimization](https://shahirsalehi.com/services/conversion-optimization/): Conversion audits, landing-page improvements, and disciplined testing focused on clearer journeys and genuine business outcomes.
+- [Website & small-business security](https://shahirsalehi.com/services/cybersecurity/): Defensive website security, access reviews, updates, backups, and practical security guidance for small and medium-sized businesses.
+
+## Educational guides
+- [A practical technical SEO checklist for small business websites](https://shahirsalehi.com/insights/technical-seo-checklist/): Check indexability, response codes, canonicals, internal links, mobile rendering, and performance before commissioning more website content.
+- [Google Ads vs. Meta Ads: choosing a useful starting point](https://shahirsalehi.com/insights/google-ads-vs-meta-ads/): Compare search intent, creative needs, landing pages, budget decisions, and attribution before choosing Google Ads or Meta advertising.
+- [What a small business should understand about GA4](https://shahirsalehi.com/insights/small-business-ga4/): Understand GA4 events, key events, GTM, consent, reporting gaps, and the checks needed to avoid misleading conversion data.
+- [How to plan content for a business website](https://shahirsalehi.com/insights/plan-a-content-strategy/): Build a practical content plan from customer questions, page purpose, factual evidence, internal links, and an achievable editorial workflow.
+- [Common e-commerce SEO mistakes and how to assess them](https://shahirsalehi.com/insights/ecommerce-seo-mistakes/): Review filter URLs, category structure, product variants, discontinued items, structured data, and the business impact of store SEO changes.
+- [How to measure a lead generation campaign](https://shahirsalehi.com/insights/measure-lead-generation/): Separate clicks, delivered inquiries, qualified leads, and sales, then test tracking and reporting across the full lead generation journey.
+- [Practical AI applications for a small business](https://shahirsalehi.com/insights/practical-ai-for-small-business/): Choose a contained AI pilot, protect sensitive data, define human review, and measure total effort before expanding business automation.
+- [Website security basics for business owners](https://shahirsalehi.com/insights/website-security-basics/): Review domain ownership, authentication, updates, backups, forms, and incident responsibilities without assuming that HTTPS guarantees security.
+
+This is an experimental informational resource. It is not a guarantee of AI citations or search visibility.
